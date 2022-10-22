@@ -34,3 +34,8 @@ Plus, not everyone can find or afford a good financial adviser who can  teach yo
 If you have a simple software that allows you to input and save data on your investment -
 whether that be bonds or stocks, index funds, commodities, ETFs, or anything else and calculate numbers -
 that can give you a better understanding of how your investment are progressing it may be worth trying. 
+
+UML:
+https://app.moqups.com/3Sc6JE1HpsEuHLa795c1eXfPbrzjfRod/view/page/ac97c8c68?ui=0&fit_width=1
+
+
